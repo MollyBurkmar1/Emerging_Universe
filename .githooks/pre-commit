@@ -21,3 +21,4 @@ deleteOutputCells[nbPath_String]:=Module[{nb}
 Print["Notebooks output cleanup..."]
 
 deleteOutputCells /@ FileNames["*.nb"]
+
