@@ -10,9 +10,9 @@ git config --local core.hooksPath .githooks/
 
 ## Analysis
 
-In this notebook, a dynamical systems analysis of Ellis and Maartens' emergent universe scenario (https://arxiv.org/abs/gr-qc/0211082) is analysed. This scenario involves a scalar field with a plateau potential. In their paper, Ellis and Maartens' analyse this model with specific initial conditions such that the universe is past asymptotic to an initial Einstein state. The aim of this analysis is to consider all possible initial conditions to understand whether the generic past attractor is non-singular. Although we find other cases that can emerge from a non-singular de Sitter state, generally trajectories are past asymptotic to a singularity. 
+In this notebook, a dynamical systems analysis of Ellis and Maartens' emergent universe scenario (https://arxiv.org/abs/gr-qc/0211082) is carried out. This scenario involves a scalar field with a plateau potential. In their paper, Ellis and Maartens analyse this model with specific initial conditions such that the universe is past asymptotic to an initial Einstein state. The aim of this analysis is to consider all possible initial conditions to understand whether the generic past attractor is non-singular. Although we find other cases that can emerge from a non-singular de Sitter state, generally trajectories are past asymptotic to a singularity. 
 
-This analysis in the notebook provides:
+The analysis in the notebook provides:
 
 + plots of the flat sub-manifold,
 + the sub-manifold where $\phi \rightarrow -\infty$,
