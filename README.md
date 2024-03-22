@@ -17,4 +17,4 @@ The analysis in the notebook provides:
 + plots of the flat sub-manifold,
 + the sub-manifold where $\phi \rightarrow -\infty$,
 + the full phase space,
-+ stability analysis of the fixed points in each case.
++ stability analysis of the fixed points.
